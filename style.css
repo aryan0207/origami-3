@@ -1,0 +1,100 @@
+.intro{
+    font-style: oblique;
+    padding-bottom: 300px;
+   
+    padding:50px;
+    border: solid;
+    }
+    .bg{
+        background-image: "webbg.jpg";
+    }
+    .menu{
+        display: flex;
+        justify-content: space-between;
+        background-color: grey;
+        padding: 25px;
+        font-size: 20px;
+        font-family: sans-serif;
+        font-weight: 400;
+        color: white;
+    }
+.header a{
+    
+    padding-left: 50;
+    
+}
+.space1{
+    display: flex;
+    justify-content: space-between;
+}
+.space2{
+    display: flex;
+    justify-content: space-between;
+}
+.camel img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+
+}
+.camel2{
+    
+    width: 300px;
+    background-color: whitesmoke;
+}
+.chameleon img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.chameleon2{
+    background-color: whitesmoke;
+    width: 300px;
+
+}
+.cicada img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.cicada2{
+    background-color: whitesmoke;
+    width: 300px;
+
+}
+.panda img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.panda2{
+    background-color:whitesmoke;
+    width: 300px;
+ 
+}
+.pigeon img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.pigeon2{
+    background-color: whitesmoke;
+    width: 300px;
+    
+}
+
+.teddy img{
+    border:2px solid black;
+    border-radius: 20%;
+    margin-left: 50px;
+}
+.teddy2{
+    background-color: whitesmoke;
+    width: 300px;
+     
+}
+h2{
+    margin-left:80px}
+h1{
+    margin-left: 230px;
+}
